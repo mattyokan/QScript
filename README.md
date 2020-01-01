@@ -1,6 +1,6 @@
 # [ABANDONED] QScript - A groovy script system for Spigot/Bukkit
 
-**This has not been in development since April of 2019. It is completely unsupported and is just here for anyone who is thinking of attempting something similar.**
+**This has not been in development since April of 2019. It never made it out of Alpha as I realized that the concept was problematic. It is completely unsupported and is just here for anyone who is thinking of attempting something similar.**
 
 I wrote this over the course of a day as I was interested in seeing what advantages/disadvantages there would be to using a combination of groovy/scripts on a live server.
 
