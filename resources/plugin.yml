@@ -1,0 +1,5 @@
+name: QScript
+author: myokan
+version: 1.1.1-ALPHA
+description: A powerful yet efficient Groovy script loader for Spigot.
+main: org.quadrex.script.ScriptPlugin
